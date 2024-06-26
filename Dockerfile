@@ -8,7 +8,7 @@ LABEL maintainer="holguinsanty@gmail.com"
 WORKDIR /app
 
 # Copia el archivo JAR construido de tu proyecto al contenedor
-COPY build/libs/neuroPsi-0.0.1.jar /app/app.jar
+COPY target/neuroPsi-0.0.1.jar /app/app.jar
 
 COPY src/main/resources /app/src/main/resources
 
