@@ -1,0 +1,71 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.2.5'
+	id 'io.spring.dependency-management' version '1.1.4'
+    id 'maven-publish'
+    id 'org.ajoberstar.grgit' version '4.1.1'
+}
+
+group = 'com.stage'
+version = '0.0.1'
+
+java {
+	sourceCompatibility = '17'
+}
+
+// configurations {
+// 	compileOnly {
+// 		extendsFrom annotationProcessor
+// 	}
+// }
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    implementation 'commons-io:commons-io:2.11.0'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
+    implementation group: 'com.jayway.jsonpath', name: 'json-path', version: '2.6.0'
+    implementation group: 'org.javatuples', name: 'javatuples', version: '1.2'
+    implementation group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.13'
+    implementation 'org.ajoberstar.grgit:grgit-core:4.1.1'
+    implementation group: 'com.jcraft', name: 'jsch', version: '0.1.55'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.33'
+    implementation 'org.postgresql:postgresql'
+
+}
+
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+        }
+    }
+    repositories {
+        maven {
+            url = uri("https://maven.pkg.github.com/HOLGUINsantiago/neuroPsi")
+            credentials {
+                username = "HOLGUINsantiago"
+                password = "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"
+            }
+        }
+    }
+}
+
+
+jar {
+    enabled = true
+}

@@ -1,0 +1,49 @@
+# Mutant reseerch in drosophila genomic data
+
+MutantResearch finds specific mutations, and returns the number of matchs and mismatchs in multiple sequencing files
+
+## Preconditions 
+
+1) [git](https://git-scm.com/downloads) 
+2) [docker](https://docs.docker.com/engine/install/) with docker compose 
+
+## Installation 
+
+```bash
+git clone https://github.com/tu-usuario/tu-proyecto.git
+cd tu-proyecto
+docker build -t tu-usuario/tu-proyecto .
+docker-compose up
+```
+
+## Launching
+
+1) Open docker desktop
+2) Start research mutantResearch multi-container (if not already running)
+3) [Access](https://localhost:8000) 
+
+## Ussage
+
+Specific line = detailed results containing reads and alignement with referential sequence
+
+Multiple lines = Simple results:
+    - If the alignement has already being done, existing result will be returned. To evitate this situation select param "savesaveInDb" = false
+
+Max file size = 50 Gb
+
+## Autors
+
+Santiago Holguin and Maewenn Verbrugghe
+
+## Collaborators
+
+Daniel Vasiliauskas and Gillaume Posti : NeuroPSI and Paris-Saclay University
+
+## More information 
+
+[Report](Rapport_VERBRUGGHE_HOLGUIN_Anglais.pdf)
+
+## Cite 
+
+[fasta36](https://github.com/wrpearson/fasta36?tab=readme-ov-file#the-fasta-package---protein-and-dna-sequence-similarity-searching-and-alignment-programs)
+

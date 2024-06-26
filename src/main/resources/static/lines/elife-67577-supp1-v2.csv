@@ -1,0 +1,74 @@
+Sample;Population;Locality;Locality_code;InternalName;Season;City;State;Country;Latitude;Longitude;Collection_date;Day;Month;Year;Individuals;Sex;Inbred;collector;Publication;Analyzed;Clinal;Core20;dp_mean_auto;dp_mean_x;SRA
+PA_li_11_spring;PA_li_11;PA_li;PA;melPA_72011_SPT;spring;Linvilla;Pennsylvania;USA;39,88;-75,41;15/07/2011;NA;7;2011;75;male;FAUX;P. Schmidt lab;Bergland et al 2014;yes;yes;yes;65,78;35,72;SRX661841
+PA_li_11_fall;PA_li_11;PA_li;PA;melPA_102011_FAT;fall;Linvilla;Pennsylvania;USA;39,88;-75,41;15/10/2011;NA;10;2011;47;male;FAUX;P. Schmidt lab;Bergland et al 2014;yes;no;yes;87,98;45,93;SRX661842
+PA_li_10_fall;PA_li_10;PA_li;PA;melPA_112010_FAT;fall;Linvilla;Pennsylvania;USA;39,88;-75,41;15/11/2010;NA;11;2010;33;male;FAUX;P. Schmidt lab;Bergland et al 2014;yes;no;yes;88,28;45,56;SRX661840
+PA_li_10_spring;PA_li_10;PA_li;PA;melPA_72010_SPT;spring;Linvilla;Pennsylvania;USA;39,88;-75,41;15/07/2010;NA;7;2010;116;male;FAUX;P. Schmidt lab;Bergland et al 2014;yes;no;yes;44,61;26,9;SRX661839
+CA_es_12_spring;CA_es_12;CA_es;rd;mel137_062012_RD;spring;Esparto;California;USA;38,68;-122,046;13/06/2012;13;6;2012;27;male;FAUX;H. Machado;Machado, Bergland et al 2021;yes;no;yes;68,19;33,06;SRS1577356
+UA_od_13_fall;UA_od_13;UA_od;OUK;mel13OUK10_FAT;fall;Odessa;NA;Ukraine;46,49;30,71;NA;NA;10;2013;61;male;FAUX;I. Kozeretska;Machado, Bergland et al 2021;yes;no;yes;83,91;41,79;SRS1577367
+UA_od_13_spring;UA_od_13;UA_od;OUK;mel13OUK5_SPT;spring;Odessa;NA;Ukraine;46,49;30,71;NA;NA;5;2013;37;male;FAUX;I. Kozeretska;Machado, Bergland et al 2021;yes;no;yes;84,42;41,49;SRS1577369
+CA_es_12_fall;CA_es_12;CA_es;rd;mel142_082012_RD;fall;Esparto;California;USA;38,68;-122,046;22/08/2012;22;8;2012;92;male;FAUX;H. Machado;Machado, Bergland et al 2021;yes;no;yes;58,69;29,5;SRS1577357
+GA_at_14_fall;GA_at_14;GA_at;AGA;mel14AGA10_FAT;fall;Athens;Georgia;USA;33,95;-83,36;NA;NA;10;2014;99;male;FAUX;K .Dyer;Machado, Bergland et al 2021;yes;no;yes;155,34;71,82;SRS1577370
+GA_at_14_spring;GA_at_14;GA_at;AGA;mel14AGA6_SPT;spring;Athens;Georgia;USA;33,95;-83,36;15/06/2014;15-20;6;2014;44;male;FAUX;K .Dyer;Machado, Bergland et al 2021;yes;no;yes;89,21;39,7;SRS1577371
+MI_bh_14_fall;MI_bh_14;MI_bh;BHM;mel14BHM11_FAT;fall;Benton Harbor;Michigan;USA;42,1111;-86,4483;05/11/2014;5;11;2014;34;male;FAUX;T. Karasov et al;Machado, Bergland et al 2021;yes;no;yes;203,18;94,87;SRS1577372
+MI_bh_14_spring;MI_bh_14;MI_bh;BHM;mel14BHM7_SPT;spring;Benton Harbor;Michigan;USA;42,1111;-86,4483;26/07/2014;26;7;2014;106;male;FAUX;T. Karasov et al;Machado, Bergland et al 2021;yes;no;yes;127,24;58,96;SRS1577373
+VA_ch_14_fall;VA_ch_14;VA_ch;CUA;mel14CUA10_FAT;fall;Charlotttesville;Virginia;USA;38;-78,47;14/10/2014;14;10;2014;76;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;yes;no;yes;95,74;46,76;SRS1577390
+VA_ch_14_spring;VA_ch_14;VA_ch;CUA;mel14CUA6_SPT;spring;Charlotttesville;Virginia;USA;38;-78,47;25/06/2014;25;6;2014;104;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;yes;no;yes;102,04;51,94;SRS1577391
+WI_cp_14_spring;WI_cp_14;WI_cp;CWI;mel14CWI6_SPT;spring;Cross Plains;Wisconsin;USA;43,11;-89,65;25/06/2014;25;6;2014;130;male;FAUX;J. Pool;Machado, Bergland et al 2021;yes;no;yes;108,42;52,06;SRS1577392
+WI_cp_14_fall;WI_cp_14;WI_cp;CWI;mel14CWI9_FAT;fall;Cross Plains;Wisconsin;USA;43,11;-89,65;18/09/2014;18;9;2014;61;male;FAUX;J. Pool;Machado, Bergland et al 2021;yes;no;yes;144,31;70,51;SRS1577393
+MA_la_14_fall;MA_la_14;MA_la;LMA;mel14LMA10_FAT;fall;Lancaster;Massachusetts;USA;42,45;-71,67;20/10/2014;20;10;2014;90;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;yes;no;yes;118,64;57,39;SRS1577394
+MA_la_14_spring;MA_la_14;MA_la;LMA;mel14LMA7_SPT;spring;Lancaster;Massachusetts;USA;42,45;-71,67;20/07/2014;20;7;2014;32;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;yes;no;yes;98,67;48,52;SRS1577396
+PA_sc_14_fall;PA_sc_14;PA_sc;SCPA;mel14SCPA10_FAT;fall;State College;Pennsylvania;USA;40,793395;-77,860001;16/10/2014;16;10;2014;67;male;FAUX;S. Schaeffer;Machado, Bergland et al 2021;yes;no;yes;104,29;49,29;SRS1577397
+PA_sc_14_spring;PA_sc_14;PA_sc;SCPA;mel14SCPA6_SPT;spring;State College;Pennsylvania;USA;40,793395;-77,860001;18/06/2014;18-24;6;2014;45;male;FAUX;S. Schaeffer;Machado, Bergland et al 2021;yes;no;yes;116,55;55,02;SRS1577398
+KA_to_14_fall;KA_to_14;KA_to;TKA;mel14TKA10_FAT;fall;Topeka;Kansas;USA;39;-96;22/10/2014;22;10;2014;48;male;FAUX;P.Roy;Machado, Bergland et al 2021;yes;no;yes;65,86;32,48;SRS1577399
+KA_to_14_spring;KA_to_14;KA_to;TKA;mel14TKA6_SPT;spring;Topeka;Kansas;USA;39;-96;22/06/2014;22;6;2014;72;male;FAUX;P.Roy;Machado, Bergland et al 2021;yes;no;yes;76,68;36,48;SRS1577400
+VA_ch_15_fall;VA_ch_15;VA_ch;CUA;mel15CUA10_FAT;fall;Charlotttesville;Virginia;USA;38;-78,47;19/10/2015;19;10;2015;89;male;FAUX;A. Bergland;Machado, Bergland et al 2021;yes;no;yes;98,39;49,46;SRS1577401
+VA_ch_15_spring;VA_ch_15;VA_ch;CUA;mel15CUA7_SPT;spring;Charlotttesville;Virginia;USA;38;-78,47;01/07/2015;1;7;2015;65;male;FAUX;A. Bergland;Machado, Bergland et al 2021;yes;no;yes;104,38;49,47;SRS1577402
+ON_su_15_spring;ON_su_15;ON_su;SON;mel15SON8_SPT;spring;Sudbury;Ontario;Canada;46,53;-80,96;03/08/2015;3;8;2015;108;male;FAUX;T. Merrit;Machado, Bergland et al 2021;yes;no;yes;214,91;119,07;SRS1577405
+ON_su_15_fall;ON_su_15;ON_su;SON;mel15SON9_FAT;fall;Sudbury;Ontario;Canada;46,53;-80,96;30/09/2015;30;9;2015;110;male;FAUX;T. Merrit;Machado, Bergland et al 2021;yes;no;yes;86,23;41,75;SRS1577406
+CA_es_13_spring;CA_es_13;CA_es;rd;mel169_052013_RD;spring;Esparto;California;USA;38,68;-122,046;07/05/2013;7;5;2013;50;male;FAUX;H. Machado;Machado, Bergland et al 2021;yes;no;yes;64,62;32,48;SRS1577418
+CA_tu_13_spring;CA_tu_13;CA_tu;co;mel171_052013_CO;spring;Tuolumne;California;USA;37,97;-120,26;14/05/2013;14;5;2013;98;male;FAUX;H. Machado;Machado, Bergland et al 2021;yes;no;yes;63,03;31,04;SRS1577359
+CA_tu_13_fall;CA_tu_13;CA_tu;co;mel176_082013_CO;fall;Tuolumne;California;USA;37,97;-120,26;31/08/2013;31;8;2013;100;male;FAUX;H. Machado;Machado, Bergland et al 2021;yes;no;yes;91,89;48,97;SRS1577360
+CA_es_13_fall;CA_es_13;CA_es;rd;mel178_092013_RD;fall;Esparto;California;USA;38,68;-122,046;01/09/2013;1;9;2013;57;male;FAUX;H. Machado;Machado, Bergland et al 2021;yes;no;yes;71,81;35,76;SRS1577364
+ES_ba_12_spring;ES_ba_12;ES_ba;BA;melBA_072012_SPT;spring;Barcelona;NA;Spain;41,38;2,17;13/07/2012;13;7;2012;55;male;FAUX;J. Gonzalez;Machado, Bergland et al 2021;yes;no;yes;34,91;17,42;SRS1468202
+ES_ba_12_fall;ES_ba_12;ES_ba;BA;melBA_102012_FAT;fall;Barcelona;NA;Spain;41,38;2,17;15/10/2012;NA;10;2012;29;male;FAUX;J. Gonzalez;Machado, Bergland et al 2021;yes;no;yes;51,74;25,47;SRS1468204
+MA_la_12_spring;MA_la_12;MA_la;MA;melMA_072012_SPT;spring;Lancaster;Massacusetts;USA;42,45;-71,67;28/07/2012;28;7;2012;100;male;FAUX;P. Schmidt;Machado, Bergland et al 2021;yes;no;yes;62,15;34;SRS1468210
+MA_la_12_fall;MA_la_12;MA_la;MA;melMA_102012_FAT;fall;Lancaster;Massacusetts;USA;42,45;-71,67;02/10/2012;2;10;2012;63;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;yes;no;yes;52;26,92;SRS1468209
+NY_it_12_spring;NY_it_12;NY_it;NY;melNY_072012_SPT;spring;Ithaca;New York;USA;42,44;-76,5;25/07/2012;25;7;2012;30;male;FAUX;Howick/Lazzaro;Machado, Bergland et al 2021;yes;no;yes;75,25;36,7;SRS1468213
+NY_it_12_fall;NY_it_12;NY_it;NY;melNY_102012_FAT;fall;Ithaca;New York;USA;42,44;-76,5;23/09/2012;23;9;2012;58;male;FAUX;Howick/Lazzaro;Machado, Bergland et al 2021;yes;no;yes;39,53;20,47;SRS1468211
+AT_gr_12_spring;AT_gr_12;AT_gr;VI;melVI_082012_SPT;spring;Gross-Enzersdorf;NA;Austria;48,2;16,37;03/08/2012;3;8;2012;62;male;FAUX;Fabian/Flatt;Machado, Bergland et al 2021;yes;no;yes;34,83;17,63;SRS1468206
+AT_gr_12_fall;AT_gr_12;AT_gr;VI;melVI_102012_FAT;fall;Gross-Enzersdorf;NA;Austria;48,2;16,37;20/10/2012;20;10;2012;44;male;FAUX;Fabian/Flatt;Machado, Bergland et al 2021;yes;no;yes;79,87;38,79;SRS1468205
+WI_cp_12_spring;WI_cp_12;WI_cp;WI;melWI_062012_SPT;spring;Cross Plains;Wisconsin;USA;43,11;-89,65;10/06/2012;10;6;2012;83;male;FAUX;J. Pool;Machado, Bergland et al 2021;yes;no;yes;22,35;13,57;SRS1468208
+WI_cp_12_fall;WI_cp_12;WI_cp;WI;melWI_102012_FAT;fall;Cross Plains;Wisconsin;USA;43,11;-89,65;11/09/2012;11;9;2012;164;male;FAUX;J. Pool;Machado, Bergland et al 2021;yes;no;yes;54,12;26,63;SRS1468216
+FL_ho_10_spring;FL_ho_10;FL_ho;FL;melFL_072010_SPT;spring;Homestead;Florida;USA;25,5;-80,477;15/07/2010;NA;7;20 102 008;39;male;FAUX;P. Schmidt, A. Bergland;Bergland et al 2014;yes;yes;no;72,82;38,89;SRX661832
+GA_ha_08_spring;GA_ha_08;GA_ha;GA;melGA_072008_SPT;spring;Hahia;Georgia;USA;30,99;-83,37;15/07/2008;NA;7;2008;51;male;FAUX;P. Schmidt;Bergland et al 2014;yes;yes;no;117,62;60,4;SRX661834
+SC_eu_10_spring;SC_eu_10;SC_eu;SC;melSC_072010_SPT;spring;Eutawville;South Carolina;USA;33,39;-80,34;15/07/2010;NA;7;20 102 008;48;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;yes;yes;no;101,18;51,87;SRX661835
+PA_li_09_spring;PA_li_09;PA_li;PA;melPA_072009_SPT;spring;Linvilla;Pennsylvania;USA;39,88;-75,41;15/07/2009;NA;7;2009;55;male;FAUX;P. Schmidt lab;Bergland et al 2014;no;no;no;220,34;156,02;SRX661837
+PA_li_12_spring;PA_li_12;PA_li;PA;melPA_072012_SPT;spring;Linvilla;Pennsylvania;USA;39,88;-75,41;16/07/2012;16;7;2012;115;male;FAUX;P. Schmidt lab;Bergland et al 2014;no;no;no;72,96;39,31;SRS1468215
+PA_li_12_fall;PA_li_12;PA_li;PA;melPA_092012_SUM;fall;Linvilla;Pennsylvania;USA;39,88;-75,41;13/09/2012;13;9;2012;50;male;FAUX;P. Schmidt lab;Bergland et al 2014;no;no;no;57,29;55,8;SRS1468217
+PA_li_09_fall;PA_li_09;PA_li;PA;melPA_112009_FAT;fall;Linvilla;Pennsylvania;USA;39,88;-75,41;15/11/2009;NA;11;2009;74;male;FAUX;P. Schmidt lab;Bergland et al 2014;no;no;no;71,26;33,12;SRX661838
+WI_cp_13_spring;WI_cp_13;WI_cp;WI;mel13CWI7_SPT;spring;Cross Plains;Wisconsin;USA;43,11;-89,65;02/07/2013;2;7;2013;130;male;FAUX;J. Pool;Machado, Bergland et al 2021;no;no;no;190,92;92,25;SRS1577365
+WI_cp_13_fall;WI_cp_13;WI_cp;WI;mel13CWI9_FAT;fall;Cross Plains;Wisconsin;USA;43,11;-89,65;22/09/2013;22;9;2013;61;male;FAUX;J. Pool;Machado, Bergland et al 2021;no;no;no;80,2;38,88;SRS1577366
+PA_li_14_fall;PA_li_14;PA_li;PA;mel14LNPA10_FAT;fall;Linvilla;Pennsylvania;USA;39,88;-75,41;17/10/2014;17;10;2014;50;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;no;no;no;133,13;65,03;SRS1577409
+PA_li_14_spring;PA_li_14;PA_li;PA;mel14LNPA6_SPT;spring;Linvilla;Pennsylvania;USA;39,88;-75,41;27/06/2014;27;6;2014;92;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;no;no;no;75;37,93;SRS1577411
+PA_li_15_fall;PA_li_15;PA_li;PA;mel15LN10_FAT;fall;Linvilla;Pennsylvania;USA;39,88;-75,41;NA;NA;10;2015;52;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;no;no;no;106,83;50,88;SRS1577412
+PA_li_15_spring;PA_li_15;PA_li;PA;mel15LN7_SPT;spring;Linvilla;Pennsylvania;USA;39,88;-75,41;NA;NA;7;2015;74;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;no;no;no;212,41;118,69;SRS1577413
+PA_li_11_frost;PA_li_11;PA_li;PA;melPA_112011_WIN_FRT;frost;Linvilla;Pennsylvania;USA;39,88;-75,41;15/11/2011;NA;11;2011;50;male;FAUX;P. Schmidt lab;Bergland et al 2014;no;no;no;65,24;33,03;SRX661843
+PA_li_13_spring;PA_li_13;PA_li;PA;mel13LN6_SPT;spring;Linvilla;Pennsylvania;USA;39,88;-75,41;NA;NA;6;2013;54;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;no;no;no;101,99;48,48;SRS1577410
+CA_pl_12_fall;CA_pl_12;CA_pl;gb;mel144_082012_GB;fall;Placerville;California;USA;38,74;-120,74;25/08/2012;25;8;2012;100;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;118,11;58,96;SRS1577368
+CA_st_12_fall;CA_st_12;CA_st;fb;mel153_102012_FB;fall;Stockton;California;USA;38,02;-121,2;01/10/2012;1;10;2012;100;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;50,68;25,25;SRS1577395
+CA_tu_12_fall;CA_tu_12;CA_tu;co;mel156_102012_CO;fall;Tuolumne;California;USA;37,97;-120,26;10/10/2012;10;10;2012;116;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;50,83;26,14;SRS1577407
+CA_st_12_frost;CA_st_12;CA_st;fb;mel158_112012_FB;frost;Stockton;California;USA;38,02;-121,2;15/11/2012;15;11;2012;58;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;52,21;25,27;SRS1577414
+CA_tu_12_frost;CA_tu_12;CA_tu;co;mel159_112012_CO;frost;Tuolumne;California;USA;37,97;-120,26;17/11/2012;17;11;2012;60;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;91,86;44,19;SRS1577415
+PA_sc_15_spring;PA_sc_15;PA_sc;SCPA;mel15SCPA7_SPT;spring;State College;Pennsylvania;USA;40,793395;-77,860001;18/07/2015;18-24;7;2015;47;male;FAUX;S. Schaeffer;Machado, Bergland et al 2021;no;no;no;95,87;46,13;SRS1577403
+IL_ur_15_spring;IL_ur_15;IL_ur;UIL;mel15UIL7_SPT;spring;Urbana;Illinois;USA;40,11;-88,21;11/07/2015;11;7;2015;184;male;FAUX;J. Birdsley;Machado, Bergland et al 2021;no;no;no;97,07;47,39;SRS1577408
+CA_pl_12_frost;CA_pl_12;CA_pl;gb;mel160_112012_GB;frost;Placerville;California;USA;38,74;-120,74;18/11/2012;18;11;2012;56;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;57,94;27,89;SRS1577416
+CA_es_12_frost;CA_es_12;CA_es;rd;mel161_112012_RD;frost;Esparto;California;USA;38,68;-122,046;20/11/2012;20;11;2012;92;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;56,2;27,14;SRS1577417
+CA_pl_13_fall;CA_pl_13;CA_pl;gb;mel175_082013_GB;fall;Placerville;California;USA;38,74;-120,74;30/08/2013;30;8;2013;88;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;71,49;36,65;SRS1577358
+CA_st_13_fall;CA_st_13;CA_st;fb;mel177_092013_FB;fall;Stockton;California;USA;38,02;-121,2;03/09/2013;3;9;2013;72;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;73,91;36,92;SRS1577361
+CA_tu_13_frost;CA_tu_13;CA_tu;co;mel180_122013_CO;frost;Tuolumne;California;USA;37,97;-120,26;08/12/2013;8;12;2013;100;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;56,3;27,33;SRS1577362
+CA_pl_13_frost;CA_pl_13;CA_pl;gb;mel181_122013_GB;frost;Placerville;California;USA;38,74;-120,74;16/12/2013;16;12;2013;72;male;FAUX;H. Machado;Machado, Bergland et al 2021;no;no;no;62,82;31;SRS1577363
+ME_bo_09_fall;ME_bo_09;ME_bo;ME;melME_102009_FAT;fall;Bowdoin;Maine;USA;44;-69,96;15/10/2009;NA;10;2009;161;male;FAUX;P. Schmidt lab;Machado, Bergland et al 2021;no;no;no;126,86;66,68;SRX661844,SRX661845
+VA_ch_12_spring;VA_ch_12;VA_ch;VA;melVA_072012_SPT;spring;Charlottesville;Virginia;USA;38;-78,47;18/07/2012;18;7;2012;95;male;FAUX;P. Schmidt;Machado, Bergland et al 2021;no;no;no;82,37;44,18;SRS1468212
+WI_cp_12_frost;WI_cp_12;WI_cp;WI;melWI_102012_FAT_FRT;frost;Cross Plains;Wisconsin;USA;43,11;-89,65;20/10/2012;20;10;2012;100;male;FAUX;J. Pool;Machado, Bergland et al 2021;no;no;no;52,09;25,13;SRS1468207
+WA_se_14_spring;WA_se_14;WA_se;TWA;mel14TWA7_SPT;spring;Seattle;Washington;USA;47,61;-122,33;15/07/2014;NA;7;2014;70;male;FAUX;;Machado, Bergland et al 2021;no;no;no;81,87;40,4;SRX4891300
+NC_ra_03_n;NC_ra_03;NC_ra;NC;melNC_2003;n;Raleigh;North Carolina;USA;35,77;-78,63;NA;NA;NA;2003;92;male;VRAI;Mackay;Mackay et al 2012;no;no;no;38,18;19,84;SRX661836
