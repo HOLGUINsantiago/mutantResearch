@@ -10,7 +10,7 @@ MutantResearch finds specific mutations, and returns the number of matchs and mi
 ## Installation 
 
 ```bash
-git clone https://github.com/tu-usuario/tu-proyecto.git
+git clone https://github.com/HOLGUINsantiago/mutantResearch
 cd tu-proyecto
 docker build -t tu-usuario/tu-proyecto .
 docker-compose up
