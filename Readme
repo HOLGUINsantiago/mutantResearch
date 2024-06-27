@@ -11,8 +11,8 @@ MutantResearch finds specific mutations, and returns the number of matchs and mi
 
 ```bash
 git clone https://github.com/HOLGUINsantiago/mutantResearch
-cd tu-proyecto
-docker build -t tu-usuario/tu-proyecto .
+cd mutantResearch
+docker build -t mutant-research .
 docker-compose up
 ```
 
